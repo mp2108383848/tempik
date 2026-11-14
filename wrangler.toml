@@ -27,8 +27,8 @@ custom_domain = true
 # CHANGE THESE to your own domain
 [vars]
 APP_NAME = "Tempik"
-MAIL_DOMAIN = "YOURDOMAIN.com"
-WEB_HOST = "tempik.YOURDOMAIN.com"
+MAIL_DOMAIN = "temp.adc999.eu.org"
+WEB_HOST = "tempik.adc999.eu.org"
 
 # ---- Static assets (web frontend) ----
 [assets]
