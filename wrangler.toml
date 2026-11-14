@@ -20,7 +20,7 @@ action = "process"
 # ---- Custom domain routes ----
 # CHANGE THIS to your own domain (e.g. tempik.example.com)
 [[routes]]
-pattern = "tempik.YOURDOMAIN.com"
+pattern = "tempik.adc999.eu.org"
 custom_domain = true
 
 # ---- Environment variables ----
