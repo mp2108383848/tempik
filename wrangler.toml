@@ -11,7 +11,7 @@ workers_dev = false
 [[d1_databases]]
 binding = "DB"
 database_name = "tempik-db"
-database_id = ""
+database_id = "db3cf5d7-fa8f-44dc-8b04-090ddd6d91b8"
 
 # ---- Email Worker ----
 [email]
